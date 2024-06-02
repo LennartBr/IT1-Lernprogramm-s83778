@@ -1,0 +1,38 @@
+{
+  "mathematik": [
+    { "question": "Was ist $$2+2$$?", "answers": ["4", "3", "5", "6"], "correct": 0 },
+    { "question": "Was ist die Wurzel von $$\\sqrt9$$?", "answers": ["3", "2", "4", "5"], "correct": 0 },
+    { "question": "Was ist $$5 \\times 5$$?", "answers": ["25", "20", "15", "30"], "correct": 0 },
+    { "question": "Was ist $$\\frac{12}{3}$$?", "answers": ["4", "6", "3", "2"], "correct": 0 },
+    { "question": "Was ist $$7+8$$?", "answers": ["15", "14", "16", "17"], "correct": 0 },
+    { "question": "Was ist $$10-4$$?", "answers": ["6", "7", "8", "5"], "correct": 0 },
+    { "question": "Was ist $$3 \\times 7$$?", "answers": ["21", "24", "20", "18"], "correct": 0 },
+    { "question": "Was ist $$\\frac{8}{2}$$?", "answers": ["4", "6", "3", "5"], "correct": 0 },
+    { "question": "Was ist $$9+6$$?", "answers": ["15", "16", "14", "13"], "correct": 0 },
+    { "question": "Was ist $$15-5$$?", "answers": ["10", "11", "12", "9"], "correct": 0 }
+  ],
+  "internettechnologien": [
+    { "question": "Welches Protokoll verwendet HTTP?", "answers": ["TCP", "UDP", "FTP", "SSH"], "correct": 0 },
+    { "question": "Was bedeutet HTML?", "answers": ["HyperText Markup Language", "HyperText Transfer Protocol", "HyperText Transfer Markup Language", "HyperText Markup Lingo"], "correct": 0 },
+    { "question": "Was bedeutet CSS?", "answers": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"], "correct": 0 },
+    { "question": "Was ist ein DOM?", "answers": ["Document Object Model", "Data Object Model", "Document Object Map", "Data Object Map"], "correct": 0 },
+    { "question": "Was ist eine IP-Adresse?", "answers": ["Eine eindeutige Adresse im Internet", "Eine Email-Adresse", "Eine URL", "Ein Protokoll"], "correct": 0 },
+    { "question": "Was ist ein Browser?", "answers": ["Ein Programm zum Anzeigen von Webseiten", "Ein Server", "Ein Netzwerkprotokoll", "Eine Suchmaschine"], "correct": 0 },
+    { "question": "Was bedeutet SEO?", "answers": ["Search Engine Optimization", "Search Engine Organization", "Search Engine Operation", "Search Engine Offering"], "correct": 0 },
+    { "question": "Was ist ein Cookie?", "answers": ["Eine kleine Datei, die auf dem Computer eines Benutzers gespeichert wird", "Ein Datensatz im Server", "Ein Netzwerkprotokoll", "Ein Datenbankeintrag"], "correct": 0 },
+    { "question": "Was ist JavaScript?", "answers": ["Eine Skriptsprache für das Web", "Ein Webbrowser", "Eine Datenbank", "Ein Netzwerkprotokoll"], "correct": 0 },
+    { "question": "Was ist ein Webserver?", "answers": ["Ein Server, der Webseiten bereitstellt", "Ein Client-Programm", "Eine Datenbank", "Ein Netzwerkprotokoll"], "correct": 0 }
+  ],
+  "allgemeinwissen": [
+    { "question": "Wer war Albert Einstein?", "answers": ["Physiker", "Chemiker", "Biologe", "Mathematiker"], "correct": 0 },
+    { "question": "In welchem Jahr begann der Zweite Weltkrieg?", "answers": ["1939", "1940", "1938", "1941"], "correct": 0 },
+    { "question": "Was ist die Hauptstadt von Frankreich?", "answers": ["Paris", "London", "Berlin", "Rom"], "correct": 0 },
+    { "question": "Wer schrieb 'Faust'?", "answers": ["Goethe", "Schiller", "Lessing", "Kant"], "correct": 0 },
+    { "question": "Welcher Planet ist der Sonne am nächsten?", "answers": ["Merkur", "Venus", "Erde", "Mars"], "correct": 0 },
+    { "question": "Wie viele Kontinente gibt es?", "answers": ["7", "5", "6", "8"], "correct": 0 },
+    { "question": "Was ist das größte Land der Welt?", "answers": ["Russland", "Kanada", "China", "USA"], "correct": 0 },
+    { "question": "Welches Element hat das chemische Symbol O?", "answers": ["Sauerstoff", "Gold", "Silber", "Wasserstoff"], "correct": 0 },
+    { "question": "Wer malte die Mona Lisa?", "answers": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"], "correct": 0 },
+    { "question": "Wie viele Bundesländer hat Deutschland?", "answers": ["16", "15", "14", "13"], "correct": 0 }
+  ]
+}
